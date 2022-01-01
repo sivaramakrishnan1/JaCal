@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+
+body{
+	margin: 5em;
+	font-family: 'DM sans';
+}
+
+input[type=number]
+{
+	border: none;
+	width: 50%;
+	height: 1em;
+	border-radius: 2em;
+	font-family: 'DM sans';
+	font-weight: bold;
+	padding: 20px 20px 20px 20px;
+}
+
+input[type=submit]
+{
+	width: 20%;
+	height: 2em;
+	border-radius: 2em;
+	background-color: #57315c;
+	border: none;
+	color: white;
+	font-family: 'DM sans';
+	font-weight: 700;
+	font-size: large;
+	padding: 20px 20px 20px 20px;
+	align-items: center;
+	
+}
+fieldset
+{
+	padding: 5em;
+	background-color: #ddcdd3;
+	border: none;
+	border-radius: 1em;
+}
+
+.heading
+{
+	background-color: #f4c9a7;
+	padding: 1em;
+	border-radius: .5em;
+}
+
+.f_content
+{
+	padding: 0px 20px 20px 20px;
+	color: rgb(88, 73, 73);
+	font-family: 'DM sans';
+	font-size: large;
+}
